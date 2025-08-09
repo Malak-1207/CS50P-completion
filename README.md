@@ -7,7 +7,7 @@ I am completing the course independently using Harvard's official curriculum and
 
 ## Progress
 - [x] Lecture 0: Functions, Variables  
-- [ ] Lecture 1: Conditionals  
+- [x] Lecture 1: Conditionals  
 - [ ] Lecture 2: Loops  
 - [ ] Lecture 3: Exceptions  
 - [ ] Lecture 4: Libraries  
